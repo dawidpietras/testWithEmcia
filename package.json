@@ -1,0 +1,20 @@
+{
+  "name": "nbp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npb",
+    "api"
+  ],
+  "author": "dave",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.7",
+    "request": "^2.88.0",
+    "yargs": "^12.0.5"
+  }
+}
