@@ -5,7 +5,7 @@ const myRequest = require('./myRequest.js')
 const argv = yargs.argv;
 
 console.log(argv);
-var dave = null;
+var dave;
 var waluta = argv._[0];
 var response = null;
 
